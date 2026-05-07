@@ -5,7 +5,7 @@ O objetivo é transformar dados brutos de vendas financeiras de um ecommerce em 
 
 **Autor:** Beatriz Almeida
 
-**Ferramentas:**  Kaggle Dataset, Power Query, DAX e Power BI.
+**Ferramentas:**  Kaggle Dataset, Power Query, DAX, Power BI e Figma.
 
 ##
 ### 1. Visão Geral do Projeto
