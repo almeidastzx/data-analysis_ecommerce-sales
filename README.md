@@ -1,5 +1,12 @@
 # Data-Analysis_Ecommerce-Sales
 O objetivo é transformar dados brutos de vendas financeiras de um ecommerce em uma ferramenta de tomada de decisão para economia, controle de gastos e identificar padrões recorrentes.
+
+**Versão:** 1.0
+
+**Autor:** Beatriz Almeida
+
+**Ferramentas:**  Kaggle Dataset, Power Query, DAX e Power BI.
+
 ##
 ### 1. Visão Geral do Projeto
 *“Este conjunto de dados contém registros históricos das transações de vendas de uma empresa de comércio eletrônico. Inclui informações como data do pedido, nome do produto, categoria, região, quantidade vendida, valor das vendas e lucro.”*
